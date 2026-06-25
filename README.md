@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aniwhistler@gmail.com**
 
-- 📄 Know about my experiences <a href="https://file.notion.com/f/f/93ccbac3-bb93-8154-9972-00031c9c6007/8e59edcd-89ce-4fc1-932d-ae91c924e445/Jared_Lo_Legault_FlowCV_Resume_2026-06-12.pdf?table=block&id=37dcbac3-bb93-8071-804f-e718814b5ead&spaceId=93ccbac3-bb93-8154-9972-00031c9c6007&expirationTimestamp=1782388800000&signature=ydrcwgXBputJq8W7aLrvDRJoMSzxenA9aEXtmftJ_vM&downloadName=Jared_L%C3%A9o_Legault_FlowCV_Resume_2026-06-12.pdf](https://file.notion.com/f/f/93ccbac3-bb93-8154-9972-00031c9c6007/8e59edcd-89ce-4fc1-932d-ae91c924e445/Jared_Lo_Legault_FlowCV_Resume_2026-06-12.pdf?table=block&id=37dcbac3-bb93-8071-804f-e718814b5ead&spaceId=93ccbac3-bb93-8154-9972-00031c9c6007&expirationTimestamp=1782388800000&signature=ydrcwgXBputJq8W7aLrvDRJoMSzxenA9aEXtmftJ_vM&downloadName=Jared_L%C3%A9o_Legault_FlowCV_Resume_2026-06-12.pdf" target="_blank">Here!</a>
+- 📄 Know about my experiences <a href="https://flowcv.com/resume/i1kij3s8epsl" target="_blank">Here!</a>
 
 - ⚡ Fun fact **I brush my teeth with two hands**
 
