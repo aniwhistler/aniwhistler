@@ -30,5 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniwhistler&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="aniwhistler" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniwhistler&show_icons=true&theme=synthwave&title_color=efefef&text_color=d71edb&bg_color=47325a&locale=en" alt="aniwhistler" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniwhistler&show_icons=true&theme=synthwave&title_color=efefef&text_color=d71edb&bg_color=47325a&locale=en" alt="aniwhistler"/></p>
 
