@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, it's ya boy Jared. Welcome.</h1>
-<h3 align="center">A newly hatched front-end developer</h3>
+<h3 align="center">A newly hatched full-stack developer</h3>
 
 ---
 <p align="center">
