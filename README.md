@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **OmniQuill**
 
-- 🌱 I’m currently learning **Front-end Development with Ruby on Rails**
+- 🌱 I’m currently learning **Full-Stack Development with Ruby on Rails**
 
 - 💬 Ask me about **my game!**
 
