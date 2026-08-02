@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFtcG50aGxwMWpwamRrcTFrcjA4ZzI3c3NyZGMzcWQ1aHNyZzUyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EBwpF4EromgYGV3EDF/giphy.gif" alt="Forest hgorizon while snowing">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFtcG50aGxwMWpwamRrcTFrcjA4ZzI3c3NyZGMzcWQ1aHNyZzUyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EBwpF4EromgYGV3EDF/giphy.gif" alt="Forest horizon while snowing">
 </p>
 
 ---
