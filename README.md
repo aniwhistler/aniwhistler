@@ -18,6 +18,8 @@
 
 - 📄 Know about my experiences <a href="https://flowcv.com/resume/i1kij3s8epsl" target="_blank">Here!</a>
 
+- ✨ Look at some of my projects <a href="https://aniwhistler.github.io/Jared-Legault-Portfolio/">Here!</a>
+
 - ⚡ Fun fact **I brush my teeth with two hands**
 
 <h3 align="left">Connect with me:</h3>
